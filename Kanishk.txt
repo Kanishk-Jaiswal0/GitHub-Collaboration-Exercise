@@ -6,3 +6,4 @@ He is good in  digital electronics;
 Aspirant of Gate exam ;
 
 
+I know C,C++,Python,javascript,Arduino,Verilog,Assembly
