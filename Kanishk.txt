@@ -6,3 +6,4 @@ He is good in  digital electronics;
 Aspirant of Gate exam ;
 He likes to visit Hill Areas like Jammu Kashmir, Ladakh etc.
 
+I know C,C++,Python,javascript,Arduino,Verilog,Assembly
