@@ -1,5 +1,7 @@
 My name is Goutam.
-My majar in Electronics and Communication Engineering at IIIT Nagpur.
+My major in Electronics and Communication Engineering at IIIT Nagpur.
 I like Web Developing.
 
 Fun Fact: He is a flutter developer. (Written by Pranav)
+
+He knows C,C++,Javascript,Python,mySQL,Java,MongoDB
