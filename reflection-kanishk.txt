@@ -1,0 +1,2 @@
+I have learned a lot of things about git and github
+Things like pull, push, commit, review, pull request, clone etc.
