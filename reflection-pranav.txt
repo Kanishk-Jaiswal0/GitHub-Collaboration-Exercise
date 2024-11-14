@@ -1,0 +1,2 @@
+I learned about push, pull, commit, branches, repositories etc in Github.
+I would be using Github in future to store my projects
